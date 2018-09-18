@@ -10,6 +10,7 @@ export default class Cell extends Component {
   }
 
   handleClick = (event) => {
+    debugger;
     this.setState({color: "#333"})
   }
 
