@@ -35,7 +35,7 @@ Matrix.defaultProps = {
 };
 
 // Matrix.defaultProps = {
-// return (
+// values:
 // [
 //   '#F00',
 //   '#F00',
@@ -156,5 +156,4 @@ Matrix.defaultProps = {
 //   '#F00',
 //   '#F00'
 // ]
-// )
 // };
